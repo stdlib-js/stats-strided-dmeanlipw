@@ -321,7 +321,7 @@ int main( void ) {
 -   <span class="package-name">[`@stdlib/stats-strided/dmean`][@stdlib/stats/strided/dmean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a double-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/dmeanli`][@stdlib/stats/strided/dmeanli]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a double-precision floating-point strided array using a one-pass trial mean algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/dmeanpw`][@stdlib/stats/strided/dmeanpw]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a double-precision floating-point strided array using pairwise summation.</span>
--   <span class="package-name">[`@stdlib/stats-base/smeanlipw`][@stdlib/stats/base/smeanlipw]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array using a one-pass trial mean algorithm with pairwise summation.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/smeanlipw`][@stdlib/stats/strided/smeanlipw]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array using a one-pass trial mean algorithm with pairwise summation.</span>
 
 </section>
 
@@ -421,7 +421,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/dmeanpw]: https://github.com/stdlib-js/stats-strided-dmeanpw
 
-[@stdlib/stats/base/smeanlipw]: https://github.com/stdlib-js/stats-base-smeanlipw
+[@stdlib/stats/strided/smeanlipw]: https://github.com/stdlib-js/stats-strided-smeanlipw
 
 <!-- </related-links> -->
 
